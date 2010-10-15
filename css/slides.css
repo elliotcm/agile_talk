@@ -133,8 +133,25 @@ strong {
   width:                  13%;
 }
 
+.kanban-board {
+  width:                  70%;
+  margin:                 0 auto;
 }
-
+.kanban-board th {
+  font-size:              2em;
+}
+.kanban-board td {
+  text-align:             center;
+  border-top:             1em solid white;
+  height:                 2em;
+}
+.kanban-board .card {
+  background-color:       yellow;
+  padding:                1.25em 3em;
+  line-height:            2.5em;
+}
+.kanban-board .empty.card {
+  background-color:       transparent;
 }
 
 #number-choice p {

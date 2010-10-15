@@ -14,3 +14,10 @@ SLIDE- (comparative techniques)
     - iterative development gets features in front of users
     - leaves room for changing direction
     - deploys early and often
+
+SLIDE- (forms of agile)
+
++ Forms of agile
+  * falls loosely into two categories
+    - iterative (scrum, XP)
+    - sequential (lean / kanban)

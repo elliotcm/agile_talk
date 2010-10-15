@@ -76,6 +76,7 @@ strong {
 }
 
 /* Slide-specific styles */
+#iterative ol,
 #waterfall ol {
   list-style:             none;
   color:                  black;
@@ -86,38 +87,47 @@ strong {
 #waterfall ol.waterfall {
   margin-top:             1.5em;
 }
+#iterative ol.iterative,
 #waterfall ol.iterative {
   float:                  left;
   width:                  20%;
 }
+#iterative ol li,
 #waterfall ol li {
   display:                table-cell;
   padding:                0 5px;
 }
+#iterative ol li span,
 #waterfall ol li span {
   position:               relative;
   bottom:                 1.5em;
 }
+#iterative ol li.spec ,
 #waterfall ol li.spec {
   background-color:       red;
   width:                  30%;
 }
+#iterative ol li.design ,
 #waterfall ol li.design {
   background-color:       yellow;
   width:                  20%;
 }
+#iterative ol li.build ,
 #waterfall ol li.build {
   background-color:       blue;
   width:                  20%;
 }
+#iterative ol li.test ,
 #waterfall ol li.test {
   background-color:       green;
   width:                  15%;
 }
+#iterative ol li.deploy ,
 #waterfall ol li.deploy {
   background-color:       black;
   width:                  2%;
 }
+#iterative ol li.maintain ,
 #waterfall ol li.maintain {
   background-color:       orange;
   width:                  13%;

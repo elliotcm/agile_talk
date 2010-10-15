@@ -2,7 +2,7 @@
   * react quickly to changing needs
   * rapid feedback
   * feasibility (for R&D or speculative investors)
-  * that's why interest piqued when I discovered that:
+  * low capital investment
 
 SLIDE- (comparative techniques)
 

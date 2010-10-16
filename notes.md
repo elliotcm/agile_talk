@@ -50,22 +50,16 @@ SLIDE- (iterative)
 SLIDE- (sequential)
 
   * Sequential
-    - team works in 1 or 2 week iterations / sprints
-    - weekly team / client meetings
-      + iteration planning meeting
-      + project retrospective
-    - daily team meetings
-    - regular team retrospectives
+    - JIT development
+    - reduces wastage
+      + backlog
+      + cognitive load
 
-    - work on an agreed backlog of small tasks or,
-    - "epic" deliverable feature
-    - benefits
-     + "epics" allow team to focus
-     + forces client to commit to a fixed block of work
-     + short enough commitment to allow client to change direction or stop
-     + can be used as client billing / signoff cycle
-    - requires regular but not constant client access, therefore
-    - ideal for client consultancies
+    - backlog always prioritised by client (or representative)
+    - most granular form of prioritisation
+
+    - requires near-constant access to client
+    - ideal for in-house teams, close to the business
 
 SLIDE- (environments)
 

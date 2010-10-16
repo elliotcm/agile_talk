@@ -21,6 +21,9 @@ SLIDE- (forms of agile)
   * falls loosely into two categories
     - iterative (scrum, XP)
     - sequential (lean / kanban)
+  * some shared principles
+    - lots of communication
+    - bugs always get priority
 
 SLIDE- (iterative)
 

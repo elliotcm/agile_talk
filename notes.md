@@ -38,11 +38,12 @@ SLIDE- (iterative)
 
     - work on an agreed backlog of small tasks or,
     - "epic" deliverable feature
+
     - benefits
-     + "epics" allow team to focus
-     + forces client to commit to a fixed block of work
-     + short enough commitment to allow client to change direction or stop
-     + can be used as client billing / signoff cycle
+      + "epics" allow team to focus
+      + forces client to commit to a fixed block of work
+      + short enough commitment to allow client to change direction or stop
+      + can be used as client billing / signoff cycle
     - requires regular but not constant client access, therefore
     - ideal for client consultancies
 

@@ -86,7 +86,7 @@ strong {
   list-style:             none;
   color:                  black;
   display:                table;
-  width:                  100%;
+  width:                  90%;
   margin:                 0 0 2em;
 }
 #waterfall ol.waterfall {
@@ -95,7 +95,7 @@ strong {
 #iterative ol.iterative,
 #waterfall ol.iterative {
   float:                  left;
-  width:                  20%;
+  width:                  18%;
 }
 #iterative ol li,
 #waterfall ol li {

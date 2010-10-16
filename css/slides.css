@@ -48,6 +48,11 @@ strong {
   font-size:              0.8em;
 }
 
+.cash {
+  font-size:              3em;
+  color:                  #0c0;
+}
+
 /* Slide type-specific styles */
 .slide.short {
   margin-top:             300px;

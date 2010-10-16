@@ -64,3 +64,62 @@ SLIDE- (sequential)
      + can be used as client billing / signoff cycle
     - requires regular but not constant client access, therefore
     - ideal for client consultancies
+
+SLIDE- (environments)
+
+  * most people in one of 3
+    - client consultancies
+    - in-house build & maintenance teams
+    - R&D departments
+
+SLIDE- (client consultancies)
+
+  * your main problem is the client, love & hate
+
+  * often don't know what they want until they see a version in action
+  * change their minds constantly
+
+  * Pressure from market forces, investors, dev feedback
+
+SLIDE- (in-house teams)
+
+  * market shifts, business must move with it
+  * much of the same issues as consultancy, "internal client"
+
+SLIDE- (r&d department)
+
+  * ideal use case
+    - many internal clients for many short projects
+    - rapid prototyping
+    - feasibility studies
+  * agile gives very short feedback cycle
+
+  * all types must react to technical difficulties
+
+SLIDE- (which to choose?)
+
+  * usually custom version
+    - don't follow books too closely
+    - do what suits client, team, project in that order
+  * at Reevoo
+    - custom iterative
+    - project planning meetings
+    - retrospectives
+    - 20% time
+  * previous company, client consultancy
+    - mostly custom iterative
+      + allowed iterative billing
+      + provided good point to touch base, mix things up
+    - some lean/kanban
+
+SLIDE- (take-home points)
+
+  * Use small teams (1-3 pairs)
+  * Give them freedom (tech, time, working habits, and process)
+  * Try out both styles, and adapt for your clients and team
+  * Don't be a slave to the rules
+  * Eradicate old thinking
+
+SLIDE- (title slide)
+
+  * thank you, questions

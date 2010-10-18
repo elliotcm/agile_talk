@@ -1,9 +1,9 @@
 + Main purpose of agile
   * $$$
   * react quickly to changing needs
-  * rapid feedback
-  * feasibility (for R&D or speculative investors)
-  * low capital investment
+    - rapid feedback
+    - feasibility (for R&D or speculative investors)
+    - low capital investment
 
 SLIDE- (comparative techniques)
 
